@@ -2,8 +2,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=L33Z22L11)
 
-- 🔭 I’m currently working on [Zhilu's new site](//zhilu.cyou), [Class16's Blog](//h16.zhilu.cyou).
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 🔭 I’m currently working on [exam-clock](https://github.com/thisishost/exam-clock/) [visit](https://exam.thisis.host).
+- 🌱 I’m currently learning front-end dev.
 - 😄 Pronouns: 纸鹿, Zhilu, L33Z22L11
 <!--
 - 👯 I’m looking to collaborate on ...
