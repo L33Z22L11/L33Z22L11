@@ -1,6 +1,6 @@
 {
     "editor.accessibilitySupport": "off",
-    "editor.fontFamily": "Iosevka, JetBrains Mono, JetBrainsMono Nerd Font, Sarasa Gothic SC, PingFang SC, HarmonyOS Sans SC, Consolas",
+    "editor.fontFamily": "Sarasa Mono SC, Iosevka, JetBrains Mono, JetBrainsMono Nerd Font, Sarasa Gothic SC, PingFang SC, HarmonyOS Sans SC, Consolas",
     "editor.fontLigatures": true,
     "editor.fontSize": 17,
     "editor.cursorBlinking": "phase",
@@ -9,25 +9,24 @@
     "editor.renderWhitespace": "boundary",
     "editor.smoothScrolling": true,
     "editor.wordWrap": "on",
+    "terminal.integrated.smoothScrolling": true,
     "workbench.list.smoothScrolling": true,
     "workbench.editor.wrapTabs": true,
     "liveServer.settings.donotShowInfoMsg": true,
     "git.autofetch": true,
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
-    "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Chromium, IndentWidth: 4}",
-    "settingsSync.ignoredSettings": [
-        "C_Cpp.intelliSenseEngine"
-    ],
     "settingsSync.ignoredExtensions": [
-        "llvm-vs-code-extensions.vscode-clangd"
+      "ms-vscode.cpptools",
+      "llvm-vs-code-extensions.vscode-clangd"
+    ],
+    "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Chromium, IndentWidth: 4}",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "settingsSync.ignoredSettings": [
+      "C_Cpp.intelliSenseEngine"
     ],
     "csscomb.preset": "csscomb",
     "workbench.iconTheme": "material-icon-theme",
     "workbench.productIconTheme": "material-product-icons",
-    "[python]": {
-        "editor.formatOnType": true
-    },
-    "redhat.telemetry.enabled": true,
-    "workbench.colorTheme": "One Dark Pro"
-}
+    "workbench.colorTheme": "One Dark Pro",
+  }
