@@ -11,6 +11,8 @@
   // 动画
   "editor.cursorBlinking": "phase",
   "editor.cursorSmoothCaretAnimation": "on",
+  "editor.minimap.renderCharacters": false,
+  "editor.minimap.scale": 2,
   "editor.smoothScrolling": true,
   "terminal.integrated.smoothScrolling": true,
   "workbench.list.smoothScrolling": true,
@@ -18,6 +20,7 @@
   "C_Cpp.clang_format_fallbackStyle": "{BasedOnStyle: Chromium, IndentWidth: 4}",
   "csscomb.preset": "csscomb",
   "editor.inlayHints.enabled": "offUnlessPressed",
+  "editor.formatOnSave": true,
   "editor.formatOnType": true,
   "git.autofetch": true,
   "git.enableSmartCommit": true,
@@ -27,7 +30,7 @@
     "ms-vscode.cpptools",
     "llvm-vs-code-extensions.vscode-clangd"
   ],
-  // 其他
+  // 其他 
   "editor.accessibilitySupport": "off",
   "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "material-icon-theme",
