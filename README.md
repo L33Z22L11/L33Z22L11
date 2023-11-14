@@ -11,4 +11,4 @@
 - 🌱 I’m currently learning golang.
 - 😄 Pronouns: 纸鹿(pronounced as dge loo, meaning paperydeer), Zhilu, L33Z22L11.
 - 📫 How to reach me: `QID: zhilubenlu` `Telegram: L33Z22L11`, and you can also find me on many other platforms with the same ID. ;D
-- 🔍 Fun fact: I play Minecraft([Zhilu](mine.ly/Zhilu)). 
+- 🔍 Fun fact: I play Minecraft([Zhilu](https://mine.ly/Zhilu)). 
