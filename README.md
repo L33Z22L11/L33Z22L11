@@ -5,17 +5,17 @@
 [![wakatime](https://wakatime.com/badge/user/358c7d57-860f-4599-9aa8-f10a631fad01.svg?color=fa7&style=for-the-badge)](https://wakatime.com/@358c7d57-860f-4599-9aa8-f10a631fad01)
 
 - Member of [Xiyou Linux Group](https://github.com/xiyou-linuxer)
-- Casual Chatting in personal QQ Group ***ZN4B*** (169994096)
+- Casual chatting in QQ Group ***ZN4B*** `169994096`
 
-## Recent Activity
+## Recent Activities
 
-- **August 2024 - Present**: Developing [a brand new blog](https://github.com/L33Z22L11/blog-v3) using Nuxt Content
-- **July 2024**: Writing [Wiki for XUPTers](https://github.com/xupt-wiki/xupt-wiki)
-- **June 2024**: Launched [new personal website](https://www.zhilu.cyou/)
-- **March 2024**: Developed [official website](https://www.xiyoulinux.com/) and [plan website](https://plan.xiyoulinux.com/) for Xiyou Linux Group
+- **2024.08 - Present**: Developing [a new blog](https://github.com/L33Z22L11/blog-v3) with Nuxt Content
+- **2024.07**: Writing [XUPT Wiki](https://github.com/xupt-wiki/xupt-wiki)
+- **2024.06**: Launched [personal website](https://www.zhilu.cyou/) redesign
+- **2024.03**: Developed [official website](https://www.xiyoulinux.com/) and [plan website](https://plan.xiyoulinux.com/) for Xiyou Linux Group
 
 <details>
-  <summary><big>My Coding Stats Over Time</big></summary>
+  <summary>Coding Statistics</summary>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=l33z22l11&show_icons=true&hide_border=true&show=reviews&rank_icon=percentile&theme=dark"
